@@ -20,10 +20,15 @@ The notebook compares the performance of traditional ML algorithms and a Convolu
 
 ## 📂 Project Structure
 │── src/ # Source code files
+
 │── data/ # Data used 
+
 │── notebook/ # Jupyter Notebook for experiments
+
 │── requirements.txt # Python dependencies
+
 │── README.md # Project documentation
+
 
 
 ## 📋 Requirements
@@ -37,5 +42,6 @@ Main libraries used:
   - tensorflow / keras
 
 ## 📊 Results
+
 
 - notebook provides accuracy scores for all models and highlights the best-performing model
