@@ -43,3 +43,8 @@ Main libraries used:
 
 ## 📊 Results
 
+
+- notebook provides accuracy scores for all models and highlights the best-performing model
+
+
+
