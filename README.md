@@ -47,4 +47,6 @@ Main libraries used:
 - notebook provides accuracy scores for all models and highlights the best-performing model
 
 
+## Presentation
+You can view the full project presentation [here](https://www.canva.com/design/DAGv9LQdw-8/5h47Hy9LQJvc2eszdE_AKg/edit?utm_content=DAGv9LQdw-8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
