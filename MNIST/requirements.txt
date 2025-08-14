@@ -5,4 +5,4 @@
 5- scikit-learn
 6- tensorflow
 7- Warnings 
-8- google.colab
+8- streamlit
