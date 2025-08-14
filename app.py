@@ -7,7 +7,7 @@ from streamlit_drawable_canvas import st_canvas
 
 st.title("MNIST Digit Recognizer with Streamlit")
 
-model = tf.keras.models.load_model(r"MNIST\App\cnn.h5")
+model = tf.keras.models.load_model(r"App/cnn.h5")
 
 canvas_size = 280 
 img = Image.new("L", (canvas_size, canvas_size), color=0)
@@ -35,4 +35,5 @@ if canvas.image_data is not None:
 
 
     st.write(f"Predicted digit: {np.argmax(pred)}")
+
 
