@@ -50,3 +50,8 @@ Main libraries used:
 ## Presentation
 You can view the full project presentation [here](https://www.canva.com/design/DAGv9LQdw-8/5h47Hy9LQJvc2eszdE_AKg/edit?utm_content=DAGv9LQdw-8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+## Streamlit Link 
+You can try the model and see the results [here](https://mzkvf3mxnrdymtgxpymiy3.streamlit.app/)
+
+
+
