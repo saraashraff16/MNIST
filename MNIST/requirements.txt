@@ -1,8 +1,0 @@
-1- pandas
-2- numpy
-3- Matplotlib
-4- Seaborn
-5- scikit-learn
-6- tensorflow
-7- Warnings 
-8- streamlit
